@@ -105,9 +105,6 @@ LED cảnh báo	GPIO 13
 
 Clone repo
 
-git clone https://github.com/<your-username>/<your-repo-name>.git
-
-
 Mở bằng Arduino IDE / PlatformIO
 
 Thêm Blynk Library + DHT sensors
